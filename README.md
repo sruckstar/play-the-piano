@@ -1,4 +1,4 @@
-# play-the-piano
+# Play the Piano
 A very simple in-game piano. Start making music with the main characters of GTA 5!
 
 - 12 sounds are supported
